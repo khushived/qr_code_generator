@@ -24,10 +24,14 @@ A minimal and efficient web app to **generate and download QR codes** from any t
 📁 Folder Structure
 
 
-qr-code-generator/
+qr-code-generator
+
 ── index.html # Main HTML file
+
 ── style.css # App styling
+
 ── script.js # Logic for QR generation and download
+
 ── README.md # Documentation
 
 
