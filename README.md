@@ -22,6 +22,8 @@ A minimal and efficient web app to **generate and download QR codes** from any t
 ---
 
 📁 Folder Structure
+
+
 qr-code-generator/
 │
 ├── index.html # Main HTML file
